@@ -1,0 +1,104 @@
+{
+  "cliente": "12323414412",
+  "idNfe": "raphael-id",
+  "dhEmi": "2023-02-01T14:30:25-03:00",
+  "dhSaiEnt": "2023-02-01T14:30:25-03:00",
+  "natOp": "VENDA PRODUCAO ESTABELECIMENTO",
+  "emit": {
+    "CNPJ": "8035976000101",
+    "xNome": "ELEVADORES TRIANGULO LTDA",
+    "xFant": "ELEVADORES TRIANGULO"
+  },
+  "dest": {
+    "CPF": 34141560839,
+    "xNome": "FERNANDA CAVALHEIRO",
+    "email": "nf@casadaacessibilidade.com.br"
+  },
+  "det": {
+    "prod": [
+      {
+        "cProd": 57257,
+        "cEAN": "SEM GTIN",
+        "xProd": "BARRA DE APOIO 80 CM ARTICULADA PINTURA ELETROSTATICA BRANCA",
+        "NCM": 76152000,
+        "CEST": 1007200,
+        "CFOP": 6107,
+        "uCom": "PC",
+        "qCom": 2,
+        "vUnCom": 175.8,
+        "vProd": 351.6,
+        "cEANTrib": "SEM GTIN",
+        "uTrib": "PC",
+        "qTrib": 2,
+        "vUnTrib": 175.8,
+        "indTot": 1
+      }
+    ],
+    "imposto": {
+      "vTotTrib": 0,
+      "ICMS": {
+        "ICMS40": {
+          "orig": 0,
+          "CST": 40
+        }
+      },
+      "IPI": {
+        "cEnq": 999,
+        "IPINT": {
+          "CST": 51
+        }
+      },
+      "PIS": {
+        "PISAliq": {
+          "CST": 1,
+          "vBC": 351.6,
+          "pPIS": 0.65,
+          "vPIS": 2.29
+        }
+      },
+      "COFINS": {
+        "COFINSAliq": {
+          "CST": 1,
+          "vBC": 351.6,
+          "pCOFINS": 3,
+          "vCOFINS": 10.55
+        }
+      },
+      "ICMSUFDest": {
+        "vBCUFDest": 0,
+        "vBCFCPUFDest": 0,
+        "pFCPUFDest": 0,
+        "pICMSUFDest": 0,
+        "pICMSInter": 12,
+        "pICMSInterPart": 100,
+        "vFCPUFDest": 0,
+        "vICMSUFDest": 0,
+        "vICMSUFRemet": 0
+      }
+    }
+  },
+  "total": {
+    "ICMSTot": {
+      "vBC": 0,
+      "vICMS": 0,
+      "vICMSDeson": 0,
+      "vFCP": 0,
+      "vBCST": 0,
+      "vST": 0,
+      "vFCPST": 0,
+      "vFCPSTRet": 0,
+      "vProd": 351.6,
+      "vFrete": 0,
+      "vSeg": 0,
+      "vDesc": 0,
+      "vII": 0,
+      "vIPI": 0,
+      "vIPIDevol": 0,
+      "vPIS": 2.29,
+      "vCOFINS": 10.55,
+      "vOutro": 0,
+      "vNF": 351.6,
+      "vTotTrib": 0
+    }
+  }
+}
