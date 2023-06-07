@@ -6,13 +6,13 @@
   "natOp": "VENDA PRODUCAO ESTABELECIMENTO",
   "emit": {
     "CNPJ": "8035976000101",
-    "xNome": "ELEVADORES TRIANGULO LTDA",
-    "xFant": "ELEVADORES TRIANGULO"
+    "xNome": "PRODUTOS",
+    "xFant": "NOME FANTASIA"
   },
   "dest": {
     "CPF": 34141560839,
-    "xNome": "FERNANDA CAVALHEIRO",
-    "email": "nf@casadaacessibilidade.com.br"
+    "xNome": "CARLOS ALBERTO",
+    "email": "nf@exemplo.com.br"
   },
   "det": {
     "prod": [
