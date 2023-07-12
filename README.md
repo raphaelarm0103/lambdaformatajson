@@ -1,4 +1,4 @@
-# lambdaformatajson
+# Lambda ETL para carga de JSON
 
 Esse é um exemplo de uma função Lambda do AWS (Amazon Web Services) escrita em Python, que utiliza a biblioteca Boto3 para interagir com o serviço S3 (Simple Storage Service). Vou explicar o funcionamento do código linha por linha:
 
